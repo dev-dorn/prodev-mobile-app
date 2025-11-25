@@ -4,7 +4,7 @@ import { FontAwesome, Ionicons } from "@expo/vector-icons";
 import { HEROLOGOGREEN } from "@/constants";
 import { styles } from "@/styles/_join"; // IMPORTANT — use YOUR join styles
 
-export default function join() {
+export default function signIn() {
     return (
         <SafeAreaProvider>
             <SafeAreaView style={styles.container}>

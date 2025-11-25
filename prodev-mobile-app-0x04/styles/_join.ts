@@ -1,4 +1,3 @@
-
 import { StyleSheet } from "react-native";
 
 const styles = StyleSheet.create({
@@ -6,7 +5,7 @@ const styles = StyleSheet.create({
         flex: 1,
         paddingHorizontal: 20
     },
-    iconSection: {
+    iconsection: {
         flexDirection: 'row',
         justifyContent: 'space-between',
         alignItems: 'center',
